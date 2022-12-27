@@ -21,6 +21,9 @@ Classification accuracy - number of correct prediction divided by the total numb
 
 ### Confusion matrix
 
+![LOSO_2022_IBMDA_COURSE9_Confusion matrix](https://user-images.githubusercontent.com/118730147/209594073-3dfe5634-bbbb-4a58-bf77-97ef9813e638.png)
+
+
 ### Deliverables
 * Accurate predictive algorithms
 * Business case report to stakeholders
